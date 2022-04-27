@@ -1,0 +1,14 @@
+header {
+  background-color: black;
+}
+header nav {
+  padding: 20px;
+}
+header nav ul li {
+  list-style-type: none;
+}
+header nav ul li a:hover {
+  text-decoration: underline;
+}
+
+/*# sourceMappingURL=style.css.map */
